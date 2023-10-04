@@ -1,5 +1,5 @@
 ========================================================================
-    C++/WinRT Scythe Project Overview
+Scythe
 ========================================================================
 
 Little project I've made. Probably won't complete it.
